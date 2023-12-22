@@ -5,6 +5,8 @@ It is a final proejct for embeded system in 2023.
 The normal kiosk is designed for adults. It is difficult to use kiosks for people with physical difficulties.
 So, i suggested kiosk arm which tracking user's face to improve accesibility.
 
+![image](https://github.com/gigohe2/Face-tracking-kiosk/assets/59073888/425015cd-2f86-45d1-a1b6-290c0a3d143f)
+
 ## 2. Implementation
 ### HW
 1) raspberry pi 4B
